@@ -1,0 +1,3 @@
+/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build/CMakeFiles/SquareLine_Project.dir
+/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build/CMakeFiles/edit_cache.dir
+/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1117 @@
+[
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/main.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/main.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/main.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/env_support/rt-thread/lv_rt_thread_port.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/env_support/rt-thread/lv_rt_thread_port.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/env_support/rt-thread/lv_rt_thread_port.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/env_support/rt-thread/squareline/lv_ui_entry.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/env_support/rt-thread/squareline/lv_ui_entry.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/env_support/rt-thread/squareline/lv_ui_entry.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/core/lv_disp.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/core/lv_disp.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/core/lv_disp.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/core/lv_event.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/core/lv_event.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/core/lv_event.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/core/lv_group.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/core/lv_group.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/core/lv_group.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/core/lv_indev.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/core/lv_indev.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/core/lv_indev.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/core/lv_indev_scroll.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/core/lv_indev_scroll.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/core/lv_indev_scroll.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/core/lv_obj.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/core/lv_obj.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/core/lv_obj.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/core/lv_obj_class.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/core/lv_obj_class.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/core/lv_obj_class.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/core/lv_obj_draw.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/core/lv_obj_draw.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/core/lv_obj_draw.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/core/lv_obj_pos.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/core/lv_obj_pos.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/core/lv_obj_pos.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/core/lv_obj_scroll.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/core/lv_obj_scroll.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/core/lv_obj_scroll.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/core/lv_obj_style.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/core/lv_obj_style.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/core/lv_obj_style.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/core/lv_obj_style_gen.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/core/lv_obj_style_gen.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/core/lv_obj_style_gen.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/core/lv_obj_tree.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/core/lv_obj_tree.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/core/lv_obj_tree.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/core/lv_refr.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/core/lv_refr.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/core/lv_refr.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/core/lv_theme.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/core/lv_theme.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/core/lv_theme.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/draw/arm2d/lv_gpu_arm2d.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/arm2d/lv_gpu_arm2d.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/arm2d/lv_gpu_arm2d.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/draw/lv_draw.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/lv_draw.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/lv_draw.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/draw/lv_draw_arc.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/lv_draw_arc.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/lv_draw_arc.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/draw/lv_draw_img.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/lv_draw_img.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/lv_draw_img.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/draw/lv_draw_label.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/lv_draw_label.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/lv_draw_label.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/draw/lv_draw_layer.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/lv_draw_layer.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/lv_draw_layer.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/draw/lv_draw_line.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/lv_draw_line.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/lv_draw_line.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/draw/lv_draw_mask.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/lv_draw_mask.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/lv_draw_mask.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/draw/lv_draw_rect.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/lv_draw_rect.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/lv_draw_rect.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/draw/lv_draw_transform.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/lv_draw_transform.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/lv_draw_transform.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/draw/lv_draw_triangle.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/lv_draw_triangle.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/lv_draw_triangle.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/draw/lv_img_buf.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/lv_img_buf.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/lv_img_buf.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/draw/lv_img_cache.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/lv_img_cache.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/lv_img_cache.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/draw/lv_img_decoder.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/lv_img_decoder.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/lv_img_decoder.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/draw/nxp/pxp/lv_draw_pxp.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/nxp/pxp/lv_draw_pxp.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/nxp/pxp/lv_draw_pxp.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/draw/nxp/pxp/lv_draw_pxp_blend.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/nxp/pxp/lv_draw_pxp_blend.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/nxp/pxp/lv_draw_pxp_blend.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/draw/nxp/pxp/lv_gpu_nxp_pxp.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/nxp/pxp/lv_gpu_nxp_pxp.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/nxp/pxp/lv_gpu_nxp_pxp.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/draw/nxp/pxp/lv_gpu_nxp_pxp_osa.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/nxp/pxp/lv_gpu_nxp_pxp_osa.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/nxp/pxp/lv_gpu_nxp_pxp_osa.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/draw/nxp/vglite/lv_draw_vglite.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/nxp/vglite/lv_draw_vglite.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/nxp/vglite/lv_draw_vglite.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/draw/nxp/vglite/lv_draw_vglite_arc.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/nxp/vglite/lv_draw_vglite_arc.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/nxp/vglite/lv_draw_vglite_arc.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/draw/nxp/vglite/lv_draw_vglite_blend.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/nxp/vglite/lv_draw_vglite_blend.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/nxp/vglite/lv_draw_vglite_blend.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/draw/nxp/vglite/lv_draw_vglite_line.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/nxp/vglite/lv_draw_vglite_line.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/nxp/vglite/lv_draw_vglite_line.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/draw/nxp/vglite/lv_draw_vglite_rect.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/nxp/vglite/lv_draw_vglite_rect.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/nxp/vglite/lv_draw_vglite_rect.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/draw/nxp/vglite/lv_vglite_buf.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/nxp/vglite/lv_vglite_buf.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/nxp/vglite/lv_vglite_buf.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/draw/nxp/vglite/lv_vglite_utils.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/nxp/vglite/lv_vglite_utils.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/nxp/vglite/lv_vglite_utils.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/draw/renesas/lv_gpu_d2_draw_label.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/renesas/lv_gpu_d2_draw_label.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/renesas/lv_gpu_d2_draw_label.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/draw/renesas/lv_gpu_d2_ra6m3.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/renesas/lv_gpu_d2_ra6m3.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/renesas/lv_gpu_d2_ra6m3.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/draw/sdl/lv_draw_sdl.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/sdl/lv_draw_sdl.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/sdl/lv_draw_sdl.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/draw/sdl/lv_draw_sdl_arc.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/sdl/lv_draw_sdl_arc.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/sdl/lv_draw_sdl_arc.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/draw/sdl/lv_draw_sdl_bg.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/sdl/lv_draw_sdl_bg.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/sdl/lv_draw_sdl_bg.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/draw/sdl/lv_draw_sdl_composite.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/sdl/lv_draw_sdl_composite.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/sdl/lv_draw_sdl_composite.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/draw/sdl/lv_draw_sdl_img.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/sdl/lv_draw_sdl_img.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/sdl/lv_draw_sdl_img.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/draw/sdl/lv_draw_sdl_label.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/sdl/lv_draw_sdl_label.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/sdl/lv_draw_sdl_label.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/draw/sdl/lv_draw_sdl_layer.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/sdl/lv_draw_sdl_layer.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/sdl/lv_draw_sdl_layer.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/draw/sdl/lv_draw_sdl_line.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/sdl/lv_draw_sdl_line.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/sdl/lv_draw_sdl_line.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/draw/sdl/lv_draw_sdl_mask.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/sdl/lv_draw_sdl_mask.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/sdl/lv_draw_sdl_mask.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/draw/sdl/lv_draw_sdl_polygon.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/sdl/lv_draw_sdl_polygon.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/sdl/lv_draw_sdl_polygon.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/draw/sdl/lv_draw_sdl_rect.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/sdl/lv_draw_sdl_rect.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/sdl/lv_draw_sdl_rect.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/draw/sdl/lv_draw_sdl_stack_blur.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/sdl/lv_draw_sdl_stack_blur.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/sdl/lv_draw_sdl_stack_blur.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/draw/sdl/lv_draw_sdl_texture_cache.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/sdl/lv_draw_sdl_texture_cache.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/sdl/lv_draw_sdl_texture_cache.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/draw/sdl/lv_draw_sdl_utils.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/sdl/lv_draw_sdl_utils.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/sdl/lv_draw_sdl_utils.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/draw/stm32_dma2d/lv_gpu_stm32_dma2d.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/stm32_dma2d/lv_gpu_stm32_dma2d.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/stm32_dma2d/lv_gpu_stm32_dma2d.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/draw/sw/lv_draw_sw.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/sw/lv_draw_sw.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/sw/lv_draw_sw.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/draw/sw/lv_draw_sw_arc.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/sw/lv_draw_sw_arc.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/sw/lv_draw_sw_arc.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/draw/sw/lv_draw_sw_blend.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/sw/lv_draw_sw_blend.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/sw/lv_draw_sw_blend.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/draw/sw/lv_draw_sw_dither.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/sw/lv_draw_sw_dither.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/sw/lv_draw_sw_dither.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/draw/sw/lv_draw_sw_gradient.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/sw/lv_draw_sw_gradient.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/sw/lv_draw_sw_gradient.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/draw/sw/lv_draw_sw_img.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/sw/lv_draw_sw_img.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/sw/lv_draw_sw_img.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/draw/sw/lv_draw_sw_layer.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/sw/lv_draw_sw_layer.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/sw/lv_draw_sw_layer.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/draw/sw/lv_draw_sw_letter.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/sw/lv_draw_sw_letter.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/sw/lv_draw_sw_letter.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/draw/sw/lv_draw_sw_line.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/sw/lv_draw_sw_line.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/sw/lv_draw_sw_line.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/draw/sw/lv_draw_sw_polygon.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/sw/lv_draw_sw_polygon.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/sw/lv_draw_sw_polygon.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/draw/sw/lv_draw_sw_rect.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/sw/lv_draw_sw_rect.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/sw/lv_draw_sw_rect.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/draw/sw/lv_draw_sw_transform.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/sw/lv_draw_sw_transform.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/sw/lv_draw_sw_transform.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/draw/swm341_dma2d/lv_gpu_swm341_dma2d.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/swm341_dma2d/lv_gpu_swm341_dma2d.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/draw/swm341_dma2d/lv_gpu_swm341_dma2d.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/extra/layouts/flex/lv_flex.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/layouts/flex/lv_flex.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/layouts/flex/lv_flex.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/extra/layouts/grid/lv_grid.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/layouts/grid/lv_grid.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/layouts/grid/lv_grid.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/extra/libs/bmp/lv_bmp.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/libs/bmp/lv_bmp.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/libs/bmp/lv_bmp.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/extra/libs/ffmpeg/lv_ffmpeg.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/libs/ffmpeg/lv_ffmpeg.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/libs/ffmpeg/lv_ffmpeg.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/extra/libs/freetype/lv_freetype.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/libs/freetype/lv_freetype.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/libs/freetype/lv_freetype.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/extra/libs/fsdrv/lv_fs_fatfs.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/libs/fsdrv/lv_fs_fatfs.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/libs/fsdrv/lv_fs_fatfs.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/extra/libs/fsdrv/lv_fs_littlefs.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/libs/fsdrv/lv_fs_littlefs.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/libs/fsdrv/lv_fs_littlefs.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/extra/libs/fsdrv/lv_fs_posix.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/libs/fsdrv/lv_fs_posix.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/libs/fsdrv/lv_fs_posix.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/extra/libs/fsdrv/lv_fs_stdio.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/libs/fsdrv/lv_fs_stdio.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/libs/fsdrv/lv_fs_stdio.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/extra/libs/fsdrv/lv_fs_win32.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/libs/fsdrv/lv_fs_win32.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/libs/fsdrv/lv_fs_win32.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/extra/libs/gif/gifdec.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/libs/gif/gifdec.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/libs/gif/gifdec.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/extra/libs/gif/lv_gif.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/libs/gif/lv_gif.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/libs/gif/lv_gif.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/extra/libs/png/lodepng.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/libs/png/lodepng.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/libs/png/lodepng.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/extra/libs/png/lv_png.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/libs/png/lv_png.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/libs/png/lv_png.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/extra/libs/qrcode/lv_qrcode.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/libs/qrcode/lv_qrcode.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/libs/qrcode/lv_qrcode.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/extra/libs/qrcode/qrcodegen.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/libs/qrcode/qrcodegen.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/libs/qrcode/qrcodegen.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/extra/libs/rlottie/lv_rlottie.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/libs/rlottie/lv_rlottie.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/libs/rlottie/lv_rlottie.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/extra/libs/sjpg/lv_sjpg.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/libs/sjpg/lv_sjpg.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/libs/sjpg/lv_sjpg.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/extra/libs/sjpg/tjpgd.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/libs/sjpg/tjpgd.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/libs/sjpg/tjpgd.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/extra/libs/tiny_ttf/lv_tiny_ttf.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/libs/tiny_ttf/lv_tiny_ttf.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/libs/tiny_ttf/lv_tiny_ttf.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/extra/lv_extra.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/lv_extra.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/lv_extra.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/extra/others/fragment/lv_fragment.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/others/fragment/lv_fragment.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/others/fragment/lv_fragment.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/extra/others/fragment/lv_fragment_manager.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/others/fragment/lv_fragment_manager.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/others/fragment/lv_fragment_manager.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/extra/others/gridnav/lv_gridnav.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/others/gridnav/lv_gridnav.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/others/gridnav/lv_gridnav.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/extra/others/ime/lv_ime_pinyin.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/others/ime/lv_ime_pinyin.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/others/ime/lv_ime_pinyin.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/extra/others/imgfont/lv_imgfont.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/others/imgfont/lv_imgfont.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/others/imgfont/lv_imgfont.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/extra/others/monkey/lv_monkey.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/others/monkey/lv_monkey.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/others/monkey/lv_monkey.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/extra/others/msg/lv_msg.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/others/msg/lv_msg.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/others/msg/lv_msg.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/extra/others/snapshot/lv_snapshot.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/others/snapshot/lv_snapshot.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/others/snapshot/lv_snapshot.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/extra/themes/basic/lv_theme_basic.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/themes/basic/lv_theme_basic.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/themes/basic/lv_theme_basic.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/extra/themes/default/lv_theme_default.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/themes/default/lv_theme_default.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/themes/default/lv_theme_default.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/extra/themes/mono/lv_theme_mono.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/themes/mono/lv_theme_mono.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/themes/mono/lv_theme_mono.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/extra/widgets/animimg/lv_animimg.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/widgets/animimg/lv_animimg.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/widgets/animimg/lv_animimg.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/extra/widgets/calendar/lv_calendar.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/widgets/calendar/lv_calendar.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/widgets/calendar/lv_calendar.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/extra/widgets/calendar/lv_calendar_header_arrow.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/widgets/calendar/lv_calendar_header_arrow.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/widgets/calendar/lv_calendar_header_arrow.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/extra/widgets/calendar/lv_calendar_header_dropdown.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/widgets/calendar/lv_calendar_header_dropdown.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/widgets/calendar/lv_calendar_header_dropdown.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/extra/widgets/chart/lv_chart.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/widgets/chart/lv_chart.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/widgets/chart/lv_chart.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/extra/widgets/colorwheel/lv_colorwheel.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/widgets/colorwheel/lv_colorwheel.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/widgets/colorwheel/lv_colorwheel.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/extra/widgets/imgbtn/lv_imgbtn.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/widgets/imgbtn/lv_imgbtn.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/widgets/imgbtn/lv_imgbtn.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/extra/widgets/keyboard/lv_keyboard.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/widgets/keyboard/lv_keyboard.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/widgets/keyboard/lv_keyboard.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/extra/widgets/led/lv_led.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/widgets/led/lv_led.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/widgets/led/lv_led.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/extra/widgets/list/lv_list.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/widgets/list/lv_list.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/widgets/list/lv_list.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/extra/widgets/menu/lv_menu.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/widgets/menu/lv_menu.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/widgets/menu/lv_menu.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/extra/widgets/meter/lv_meter.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/widgets/meter/lv_meter.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/widgets/meter/lv_meter.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/extra/widgets/msgbox/lv_msgbox.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/widgets/msgbox/lv_msgbox.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/widgets/msgbox/lv_msgbox.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/extra/widgets/span/lv_span.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/widgets/span/lv_span.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/widgets/span/lv_span.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/extra/widgets/spinbox/lv_spinbox.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/widgets/spinbox/lv_spinbox.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/widgets/spinbox/lv_spinbox.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/extra/widgets/spinner/lv_spinner.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/widgets/spinner/lv_spinner.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/widgets/spinner/lv_spinner.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/extra/widgets/tabview/lv_tabview.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/widgets/tabview/lv_tabview.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/widgets/tabview/lv_tabview.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/extra/widgets/tileview/lv_tileview.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/widgets/tileview/lv_tileview.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/widgets/tileview/lv_tileview.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/extra/widgets/win/lv_win.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/widgets/win/lv_win.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/extra/widgets/win/lv_win.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/font/lv_font.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/font/lv_font.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/font/lv_font.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/font/lv_font_dejavu_16_persian_hebrew.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/font/lv_font_dejavu_16_persian_hebrew.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/font/lv_font_dejavu_16_persian_hebrew.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/font/lv_font_fmt_txt.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/font/lv_font_fmt_txt.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/font/lv_font_fmt_txt.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/font/lv_font_loader.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/font/lv_font_loader.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/font/lv_font_loader.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/font/lv_font_montserrat_10.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/font/lv_font_montserrat_10.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/font/lv_font_montserrat_10.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/font/lv_font_montserrat_12.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/font/lv_font_montserrat_12.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/font/lv_font_montserrat_12.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/font/lv_font_montserrat_12_subpx.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/font/lv_font_montserrat_12_subpx.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/font/lv_font_montserrat_12_subpx.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/font/lv_font_montserrat_14.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/font/lv_font_montserrat_14.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/font/lv_font_montserrat_14.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/font/lv_font_montserrat_16.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/font/lv_font_montserrat_16.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/font/lv_font_montserrat_16.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/font/lv_font_montserrat_18.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/font/lv_font_montserrat_18.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/font/lv_font_montserrat_18.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/font/lv_font_montserrat_20.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/font/lv_font_montserrat_20.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/font/lv_font_montserrat_20.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/font/lv_font_montserrat_22.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/font/lv_font_montserrat_22.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/font/lv_font_montserrat_22.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/font/lv_font_montserrat_24.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/font/lv_font_montserrat_24.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/font/lv_font_montserrat_24.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/font/lv_font_montserrat_26.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/font/lv_font_montserrat_26.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/font/lv_font_montserrat_26.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/font/lv_font_montserrat_28.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/font/lv_font_montserrat_28.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/font/lv_font_montserrat_28.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/font/lv_font_montserrat_28_compressed.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/font/lv_font_montserrat_28_compressed.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/font/lv_font_montserrat_28_compressed.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/font/lv_font_montserrat_30.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/font/lv_font_montserrat_30.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/font/lv_font_montserrat_30.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/font/lv_font_montserrat_32.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/font/lv_font_montserrat_32.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/font/lv_font_montserrat_32.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/font/lv_font_montserrat_34.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/font/lv_font_montserrat_34.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/font/lv_font_montserrat_34.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/font/lv_font_montserrat_36.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/font/lv_font_montserrat_36.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/font/lv_font_montserrat_36.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/font/lv_font_montserrat_38.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/font/lv_font_montserrat_38.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/font/lv_font_montserrat_38.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/font/lv_font_montserrat_40.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/font/lv_font_montserrat_40.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/font/lv_font_montserrat_40.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/font/lv_font_montserrat_42.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/font/lv_font_montserrat_42.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/font/lv_font_montserrat_42.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/font/lv_font_montserrat_44.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/font/lv_font_montserrat_44.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/font/lv_font_montserrat_44.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/font/lv_font_montserrat_46.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/font/lv_font_montserrat_46.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/font/lv_font_montserrat_46.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/font/lv_font_montserrat_48.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/font/lv_font_montserrat_48.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/font/lv_font_montserrat_48.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/font/lv_font_montserrat_8.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/font/lv_font_montserrat_8.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/font/lv_font_montserrat_8.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/font/lv_font_simsun_16_cjk.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/font/lv_font_simsun_16_cjk.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/font/lv_font_simsun_16_cjk.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/font/lv_font_unscii_16.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/font/lv_font_unscii_16.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/font/lv_font_unscii_16.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/font/lv_font_unscii_8.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/font/lv_font_unscii_8.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/font/lv_font_unscii_8.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/hal/lv_hal_disp.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/hal/lv_hal_disp.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/hal/lv_hal_disp.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/hal/lv_hal_indev.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/hal/lv_hal_indev.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/hal/lv_hal_indev.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/hal/lv_hal_tick.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/hal/lv_hal_tick.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/hal/lv_hal_tick.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/misc/lv_anim.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/misc/lv_anim.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/misc/lv_anim.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/misc/lv_anim_timeline.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/misc/lv_anim_timeline.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/misc/lv_anim_timeline.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/misc/lv_area.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/misc/lv_area.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/misc/lv_area.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/misc/lv_async.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/misc/lv_async.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/misc/lv_async.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/misc/lv_bidi.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/misc/lv_bidi.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/misc/lv_bidi.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/misc/lv_color.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/misc/lv_color.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/misc/lv_color.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/misc/lv_fs.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/misc/lv_fs.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/misc/lv_fs.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/misc/lv_gc.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/misc/lv_gc.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/misc/lv_gc.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/misc/lv_ll.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/misc/lv_ll.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/misc/lv_ll.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/misc/lv_log.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/misc/lv_log.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/misc/lv_log.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/misc/lv_lru.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/misc/lv_lru.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/misc/lv_lru.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/misc/lv_math.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/misc/lv_math.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/misc/lv_math.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/misc/lv_mem.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/misc/lv_mem.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/misc/lv_mem.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/misc/lv_printf.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/misc/lv_printf.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/misc/lv_printf.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/misc/lv_style.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/misc/lv_style.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/misc/lv_style.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/misc/lv_style_gen.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/misc/lv_style_gen.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/misc/lv_style_gen.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/misc/lv_templ.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/misc/lv_templ.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/misc/lv_templ.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/misc/lv_timer.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/misc/lv_timer.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/misc/lv_timer.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/misc/lv_tlsf.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/misc/lv_tlsf.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/misc/lv_tlsf.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/misc/lv_txt.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/misc/lv_txt.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/misc/lv_txt.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/misc/lv_txt_ap.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/misc/lv_txt_ap.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/misc/lv_txt_ap.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/misc/lv_utils.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/misc/lv_utils.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/misc/lv_utils.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/widgets/lv_arc.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/widgets/lv_arc.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/widgets/lv_arc.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/widgets/lv_bar.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/widgets/lv_bar.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/widgets/lv_bar.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/widgets/lv_btn.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/widgets/lv_btn.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/widgets/lv_btn.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/widgets/lv_btnmatrix.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/widgets/lv_btnmatrix.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/widgets/lv_btnmatrix.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/widgets/lv_canvas.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/widgets/lv_canvas.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/widgets/lv_canvas.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/widgets/lv_checkbox.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/widgets/lv_checkbox.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/widgets/lv_checkbox.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/widgets/lv_dropdown.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/widgets/lv_dropdown.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/widgets/lv_dropdown.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/widgets/lv_img.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/widgets/lv_img.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/widgets/lv_img.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/widgets/lv_label.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/widgets/lv_label.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/widgets/lv_label.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/widgets/lv_line.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/widgets/lv_line.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/widgets/lv_line.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/widgets/lv_objx_templ.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/widgets/lv_objx_templ.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/widgets/lv_objx_templ.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/widgets/lv_roller.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/widgets/lv_roller.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/widgets/lv_roller.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/widgets/lv_slider.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/widgets/lv_slider.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/widgets/lv_slider.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/widgets/lv_switch.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/widgets/lv_switch.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/widgets/lv_switch.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/widgets/lv_table.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/widgets/lv_table.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/widgets/lv_table.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lvgl/src/widgets/lv_textarea.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/widgets/lv_textarea.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl/src/widgets/lv_textarea.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lv_drivers/display/GC9A01.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers/display/GC9A01.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers/display/GC9A01.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lv_drivers/display/ILI9341.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers/display/ILI9341.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers/display/ILI9341.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lv_drivers/display/R61581.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers/display/R61581.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers/display/R61581.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lv_drivers/display/SHARP_MIP.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers/display/SHARP_MIP.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers/display/SHARP_MIP.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lv_drivers/display/SSD1963.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers/display/SSD1963.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers/display/SSD1963.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lv_drivers/display/ST7565.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers/display/ST7565.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers/display/ST7565.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lv_drivers/display/UC1610.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers/display/UC1610.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers/display/UC1610.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lv_drivers/display/drm.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers/display/drm.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers/display/drm.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lv_drivers/display/fbdev.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers/display/fbdev.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers/display/fbdev.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lv_drivers/gtkdrv/gtkdrv.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers/gtkdrv/gtkdrv.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers/gtkdrv/gtkdrv.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lv_drivers/indev/AD_touch.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers/indev/AD_touch.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers/indev/AD_touch.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lv_drivers/indev/FT5406EE8.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers/indev/FT5406EE8.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers/indev/FT5406EE8.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lv_drivers/indev/XPT2046.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers/indev/XPT2046.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers/indev/XPT2046.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lv_drivers/indev/evdev.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers/indev/evdev.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers/indev/evdev.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lv_drivers/indev/libinput.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers/indev/libinput.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers/indev/libinput.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lv_drivers/indev/xkb.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers/indev/xkb.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers/indev/xkb.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lv_drivers/sdl/sdl.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers/sdl/sdl.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers/sdl/sdl.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lv_drivers/sdl/sdl_common.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers/sdl/sdl_common.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers/sdl/sdl_common.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lv_drivers/sdl/sdl_gpu.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers/sdl/sdl_gpu.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers/sdl/sdl_gpu.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lv_drivers/wayland/smm.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers/wayland/smm.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers/wayland/smm.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lv_drivers/wayland/wayland.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers/wayland/wayland.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers/wayland/wayland.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lv_drivers/win32drv/win32drv.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers/win32drv/win32drv.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers/win32drv/win32drv.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lv_drivers/win_drv.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers/win_drv.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers/win_drv.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/lv_drivers/x11/x11.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers/x11/x11.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers/x11/x11.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/ui/components/ui_comp_hook.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui/components/ui_comp_hook.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui/components/ui_comp_hook.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/ui/screens/ui_Screen1.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui/screens/ui_Screen1.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui/screens/ui_Screen1.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/ui/ui.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui/ui.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui/ui.c"
+},
+{
+  "directory": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/build",
+  "command": "/usr/bin/cc -I/usr/include/SDL2 -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lvgl -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/lv_drivers -I/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui -g -std=gnu11 -o CMakeFiles/SquareLine_Project.dir/ui/ui_helpers.c.o -c /home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui/ui_helpers.c",
+  "file": "/home/gerald/Downloads/SquareLine_Studio_Linux_v1_4_0/EDUSAT_FILES/SquareLine_Project/ui/ui_helpers.c"
+}
+]
